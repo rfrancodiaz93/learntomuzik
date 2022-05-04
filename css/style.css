@@ -239,8 +239,8 @@ main{
 
 /*FOOTER STYLING */
 footer{
-  width: 70%;
-  margin: 0 15%;
+  width: 90%;
+  margin: 0 5%;
 
   background-color: rgba(220, 220, 220, 1.0);
 
@@ -249,7 +249,7 @@ footer{
 
 .contact-service-social-wrapper{
   display: flex;
-  
+
 }
 
 .madebywrapper{
