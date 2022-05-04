@@ -267,10 +267,23 @@ footer{
   list-style: none;
 }
 
+
+.bottom-list li{
+  text-align: center;
+
+
+}
+
 .bottom-list li h4{
   font-size: 1.2em;
   margin-bottom: 2%;
 }
+
+.bottom-list li a{
+  text-decoration: none;
+
+}
+
 
 .madebywrapper{
   width: 100%;
