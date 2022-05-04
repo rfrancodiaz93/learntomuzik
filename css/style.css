@@ -249,14 +249,14 @@ footer{
 
 .contact-service-social-wrapper{
   display: flex;
-  width: 100%;
-  padding: 4%;
+  width: 90%;
+  padding: 5%;
 
 }
 
 .info{
   width: 30%;
-  background-color: red;
+  border: 2px solid red;
 }
 
 .services{
