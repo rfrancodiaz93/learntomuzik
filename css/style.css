@@ -237,8 +237,33 @@ main{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/*FOOTER STYLING */
+footer{
+  width: 70%;
+  margin: 0 15%;
+
+  background-color: rgba(220, 220, 220, 1.0);
 
 
+}
+
+.contact-service-social-wrapper{
+  display: flex;
+
+}
+
+.madebywrapper{
+  width: 100%;
+  background-color: rgba(100, 100, 100, 1);
+  
+}
+
+.fdzwebsllc{
+  width: 40%;
+  margin: 0 0 0 60%;
+  background-color: black;
+  color: white;;
+}
 
 
 
