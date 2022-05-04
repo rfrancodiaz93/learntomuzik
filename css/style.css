@@ -255,7 +255,11 @@ footer{
 
 .bottom-list{
   list-style: none;
-  
+  width: 30%;
+}
+
+.service-list{
+  margin: 0 5%;
 }
 
 .bottom-list li h4{
