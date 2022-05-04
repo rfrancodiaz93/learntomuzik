@@ -253,13 +253,13 @@ footer{
 
 }
 
-.bottom-list{
-  list-style: none;
+.info{
   width: 30%;
+  
 }
 
-.service-list{
-  margin: 0 5%;
+.bottom-list{
+  list-style: none;
 }
 
 .bottom-list li h4{
