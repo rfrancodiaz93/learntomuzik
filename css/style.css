@@ -249,10 +249,19 @@ footer{
 
 .contact-service-social-wrapper{
   display: flex;
+  padding: 4%;
 
 }
 
+.bottom-list{
+  list-style: none;
+  
+}
 
+.bottom-list li h4{
+  font-size: 1.2em;
+  margin-bottom: 2%;
+}
 
 .madebywrapper{
   width: 100%;
