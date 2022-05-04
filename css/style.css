@@ -270,11 +270,11 @@ footer{
 
 .bottom-list li{
   text-align: center;
-
+  background-color: yellow;
 
 }
 
-li h4{
+.bottom-list li h4{
   font-size: 1.2em;
   margin-bottom: 2%;
   text-align: center;
