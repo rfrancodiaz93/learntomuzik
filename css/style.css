@@ -271,12 +271,12 @@ footer{
  .bottom-list li{
   text-align: center;
   background-color: yellow;
-
+  padding: 4% 0;
 }
 
 .bottom-list li h4{
   font-size: 1.2em;
-  margin-bottom: 2%;
+  margin: 4% 0;
   text-align: center;
 }
 
