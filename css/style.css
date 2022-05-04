@@ -280,9 +280,10 @@ ul li{
   text-align: center;
 }
 
-.bottom-list li a{
+ul li a{
   text-decoration: none;
-
+  color: black;
+  
 }
 
 
