@@ -259,6 +259,10 @@ footer{
   background-color: red;
 }
 
+.services{
+  margin: 0 4%;
+}
+
 .bottom-list{
   list-style: none;
 }
