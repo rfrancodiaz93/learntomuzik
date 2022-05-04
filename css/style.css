@@ -268,7 +268,7 @@ footer{
 }
 
 
-ul li{
+ .bottom-list li{
   text-align: center;
   background-color: yellow;
 
@@ -283,7 +283,7 @@ ul li{
 ul li a{
   text-decoration: none;
   color: black;
-  
+
 }
 
 
