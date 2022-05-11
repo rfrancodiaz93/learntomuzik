@@ -395,12 +395,20 @@ ul li a{
   }
   
   .title,.caption{
-    width: 50%;
-    margin: 2% 25%;
+    width: 90%;
+    margin: 2% 5%;
     text-align: center;
     text-transform: uppercase;
   }
+  .title{
+
+    font-size: 1.2em;
+  }
   
+  .caption{
+    font-size: 0.8em;
+  }
+
   /*VIDEO SHOWCASE*/
   .video-showcase{
     width: 90%;
@@ -410,8 +418,8 @@ ul li a{
   
   .video-link{
     display: block;
-    width: 20%;
-    margin: 2% 2.5%;
+    width: 60%;
+    margin: 2% 20%;
     text-decoration: none;
     background-color: rgba(240, 240, 240, 1.0);
     border-radius: 10px;
