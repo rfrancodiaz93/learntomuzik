@@ -256,7 +256,7 @@ footer{
 
 .info{
   width: 30%;
-  border: 2px solid red;
+  
 }
 
 .services{
@@ -596,7 +596,7 @@ ul li a{
   .info{
     width: 90%;
     margin: 0 5%;
-    border: 2px solid red;
+    
   }
   
   .services{
