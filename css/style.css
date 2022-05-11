@@ -157,7 +157,7 @@ main{
 }
 /*ARTICLE STYLE*/
 .article{
-  width: 50%;
+  width: 40%;
   margin: 0  ;
 
   background-color: rgba(200,200,200, 1.0);
@@ -182,7 +182,7 @@ main{
 
 /*form para */
 .form1{
-  width: 50%;
+  width: 60%;
   margin:  0 ;
 
   border: 2px solid rgba(200, 200, 200, 1.0);
