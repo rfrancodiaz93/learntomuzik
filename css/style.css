@@ -372,6 +372,13 @@ ul li a{
   header nav a:nth-child(2){
     margin: 0 5%;
   }
+
+  .current-page{
+
+      color: black;
+      text-decoration: underline solid black;
+      
+  }
   
   /*Main content*/
   main{
