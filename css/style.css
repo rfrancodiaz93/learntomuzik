@@ -302,3 +302,321 @@ ul li a{
 
 
 
+@media screen and (max-width: 700px) {
+
+  *{
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  body{
+    background-color: rgba(240,240,240,1);
+    width: 100%;
+  }
+  
+  .container{
+    width: 100%;
+  
+  }
+  
+  /*HEADER CONTENT*/
+  
+  header{
+    width: 100%;
+    background-color: rgba(50,50,50,1.0);
+    display: relative;
+    color: white;
+  
+  }
+  
+  header img {
+    width: 5%;
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 55%;
+  
+  }
+  
+  header nav{
+  
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  
+  }
+
+  
+  header nav a{
+    display: inline-block;
+    padding: 5% 0;
+  
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+  
+  }
+  
+  header nav a:hover{
+    color: gray;
+  }
+
+
+  header nav a:nth-child(2){
+    margin: 0 5%;
+  }
+  
+  /*Main content*/
+  main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /*BANNER CONTENT*/
+  .banner-wrapper{
+    width: 100%;
+    background-color: rgba(100, 100, 100, 1.0);
+    color: white;
+  }
+  
+  .title,.caption{
+    width: 50%;
+    margin: 2% 25%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  /*VIDEO SHOWCASE*/
+  .video-showcase{
+    width: 90%;
+    margin: 5% 5%;
+    background-color: rgba(220, 220, 220, 1.0);
+  }
+  
+  .video-link{
+    display: block;
+    width: 20%;
+    margin: 2% 2.5%;
+    text-decoration: none;
+    background-color: rgba(240, 240, 240, 1.0);
+    border-radius: 10px;
+  
+    padding: 2% 0;
+  
+    transition: box-shadow 0.3s, background-color 0.4s;
+  }
+  
+  .video-link:hover{
+  
+     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     background-color: white;
+  }
+  .image-wrapper{
+    width: 90%;
+    margin: 10% 5% 5% 5%;
+    overflow: hidden;
+  
+  
+  }
+  .video-thumbnail{
+    width: 100%;
+    
+    transition: all 1s;
+  }
+  
+  .video-link:hover  .video-thumbnail{
+    transform: scale(1.2);
+  }
+  
+  
+  .video-title,.video-caption{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  .video-title{
+    width: 90%;
+    margin:  0 5% 2% 5%;
+    font-size: 1.2em;
+  
+  }
+  
+  .video-caption{
+    font-size: 0.8em;
+  }
+  .video-caption{
+    width: 90%;
+    margin: 0 5%;
+    padding-bottom: 5%;
+    color: gray;
+  
+  }
+  
+  /*ARTICLE AND EMAIL REQUEST*/
+  .article-email-wrapper{
+    width: 80%;
+    margin: 0 5% 5% 5%;
+    padding: 5%;
+  
+    display: flex;
+  
+    border: 2px solid rgba(200, 200, 200, 1.0);
+    border-radius: 8px;
+  
+  }
+  
+  .article1,.form1{
+  }
+  /*ARTICLE STYLE*/
+  .article1{
+    width: 50%;
+    margin: 0  ;
+  
+    background-color: rgba(200,200,200, 1.0);
+  }
+  
+  .article-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+    margin-bottom: 2%;
+    margin-top: 8%;
+  
+  
+  }
+  
+  .article-para{
+    line-height: 1.5;
+    width: 70%;
+    margin: 0 15%;
+  
+  }
+  
+  /*form para */
+  .form1{
+    width: 40%;
+    margin:  0 0 0 10%;
+  
+    border: 2px solid rgba(200, 200, 200, 1.0);
+  
+  }
+  
+  .form1 ul{
+  
+    list-style: none;
+    width: 80%;
+    margin: 5% 10%;
+  
+  }
+  
+  .form1 ul li{
+    padding: 2% 0;
+  }
+  
+  .form1 ul li:nth-child(4){
+    width: 50%;
+    margin: 0 25%;
+  }
+  
+  .form1 ul li label{
+    width: 50%;
+    margin: 0 25%;
+    color: rgba(100, 100, 100, 1.0);
+  }
+  .form1 ul li input{
+    width: 50%;
+    margin: 0 25%;
+    font-size: 1.2em;
+  }
+  
+  .submit-form{
+    padding: 5%;
+    width: 50%;
+    margin: 0 25%;
+  
+    background-color: rgba(200, 200, 200, 1.0); 
+    border: 2px solid rgba(200, 200, 200, 1.0);
+    border-radius: 8px;
+  
+    transition: all 0.2s;
+  
+  }
+  
+  .submit-form:hover{
+    color: rgba(245, 245, 245, 1.0);
+    border: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  /*FOOTER STYLING */
+  footer{
+    width: 100%;
+    margin: 0 0;
+  
+    background-color: rgba(220, 220, 220, 1.0);
+  
+  
+  }
+  
+  .contact-service-social-wrapper{
+    display: flex;
+    width: 90%;
+    padding: 5%;
+  
+  }
+  
+  .info{
+    width: 30%;
+    border: 2px solid red;
+  }
+  
+  .services{
+    margin: 0 4%;
+  }
+  
+  .bottom-list{
+    list-style: none;
+  }
+  
+  
+   .bottom-list li{
+    text-align: center;
+    
+    padding: 2% 0;
+  }
+  
+  .bottom-list li h4{
+    font-size: 1.2em;
+    margin: 4% 0;
+    text-align: center;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    color: black;
+  
+  }
+  
+  
+  .madebywrapper{
+    width: 100%;
+    background-color: rgba(100, 100, 100, 1);
+    
+  }
+  
+  .fdzwebsllc{
+    width: 40%;
+    margin: 0 0 0 60%;
+    background-color: black;
+    color: white;;
+  }
+  
+  
+
+
+}
