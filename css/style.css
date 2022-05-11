@@ -545,13 +545,13 @@ ul li a{
   }
   
   .form1 ul li label{
-    width: 80%;
-    margin: 0 10%;
+    width: 90%;
+    margin: 0 5%;
     color: rgba(100, 100, 100, 1.0);
   }
   .form1 ul li input{
-    width: 80%;
-    margin: 0 10%;
+    width: 90%;
+    margin: 0 5%;
     font-size: 1.2em;
   }
   
