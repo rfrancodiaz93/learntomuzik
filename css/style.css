@@ -154,10 +154,10 @@ main{
 
 }
 
-.article1,.form1{
+.article,.form1{
 }
 /*ARTICLE STYLE*/
-.article1{
+.article{
   width: 50%;
   margin: 0  ;
 
@@ -490,7 +490,7 @@ ul li a{
   
   }
   
-  .article1,.form1{
+  .article,.form1{
 
   }
 
