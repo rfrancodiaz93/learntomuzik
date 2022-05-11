@@ -361,8 +361,7 @@ ul li a{
     font-size: 1em;
     color: white;
     text-align: center;
-
-    border: 2px solid red; 
+ 
   
   }
   
@@ -378,7 +377,6 @@ ul li a{
   .current-page{
 
       color: black;
-      text-decoration: underline solid black;
 
   }
   
