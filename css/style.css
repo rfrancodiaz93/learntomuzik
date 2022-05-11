@@ -585,13 +585,15 @@ ul li a{
   
   .contact-service-social-wrapper{
     display: flex;
+    flex-direction: column;
     width: 90%;
     padding: 5%;
   
   }
   
   .info{
-    width: 30%;
+    width: 90%;
+    margin: 0 5%;
     border: 2px solid red;
   }
   
