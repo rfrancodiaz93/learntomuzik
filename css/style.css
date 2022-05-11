@@ -630,13 +630,17 @@ ul li a{
   .madebywrapper{
     width: 100%;
     background-color: rgba(100, 100, 100, 1);
-    
+    padding: 4% 0 10% 0;
   }
   
-  .fdzwebsllc{
+  .madebywrapper p{
+    text-transform: uppercase;
+    color: white;
     width: 40%;
     margin: 0 0 0 60%;
-    background-color: black;
+  }
+  .fdzwebsllc{
+    
     color: white;;
   }
   
