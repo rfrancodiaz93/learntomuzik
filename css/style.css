@@ -483,6 +483,7 @@ ul li a{
     padding: 5%;
   
     display: flex;
+    flex-direction: column;
   
     border: 2px solid rgba(200, 200, 200, 1.0);
     border-radius: 8px;
@@ -492,8 +493,8 @@ ul li a{
   .article1,.form1{
   }
   /*ARTICLE STYLE*/
-  .article1{
-    width: 50%;
+  article{
+    width: 90%;
     margin: 0  ;
   
     background-color: rgba(200,200,200, 1.0);
