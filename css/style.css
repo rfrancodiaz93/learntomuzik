@@ -331,11 +331,12 @@ ul li a{
   }
   
   header img {
-    width: 5%;
-    padding: 1%;
-    margin-left: 5%;
-    margin-right: 55%;
+    width: 30%;
+    height: 100px;
+    margin: 0 35%;
+    padding: 4% 0;
   
+    
   }
   
   header nav{
@@ -377,7 +378,7 @@ ul li a{
 
       color: black;
       text-decoration: underline solid black;
-      
+
   }
   
   /*Main content*/
