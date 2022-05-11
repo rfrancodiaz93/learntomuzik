@@ -541,30 +541,30 @@ ul li a{
   }
   
   .form1 ul li:nth-child(4){
-    width: 50%;
-    margin: 0 25%;
+    width: 60%;
+    margin: 0 20%;
   }
   
   .form1 ul li label{
-    width: 50%;
-    margin: 0 25%;
+    width: 80%;
+    margin: 0 10%;
     color: rgba(100, 100, 100, 1.0);
   }
   .form1 ul li input{
-    width: 50%;
-    margin: 0 25%;
+    width: 80%;
+    margin: 0 10%;
     font-size: 1.2em;
   }
   
   .submit-form{
     padding: 5%;
-    width: 50%;
-    margin: 0 25%;
+    width: 80%;
+    margin: 0 10%;
   
     background-color: rgba(200, 200, 200, 1.0); 
     border: 2px solid rgba(200, 200, 200, 1.0);
     border-radius: 8px;
-  
+    font-size: 1.2em;
     transition: all 0.2s;
   
   }
