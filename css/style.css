@@ -336,7 +336,7 @@ ul li a{
     margin: 0 35%;
     padding: 4% 0;
   
-    
+
   }
   
   header nav{
@@ -353,6 +353,7 @@ ul li a{
   
   header nav a{
     display: inline-block;
+    width: 30%;
     padding: 5% 0;
   
     text-decoration: none;
