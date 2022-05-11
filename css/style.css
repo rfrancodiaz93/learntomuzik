@@ -637,7 +637,7 @@ ul li a{
   
   .madebywrapper p{
     text-transform: uppercase;
-    color: white;
+    color: rgba(200,200,200,1);
     width: 80%;
     margin: 0 10%;
     text-align: center;
