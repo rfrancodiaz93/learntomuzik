@@ -237,11 +237,12 @@ main{
 }
 
 /*FOOTER STYLING */
+/*FOOTER STYLING */
 footer{
   width: 100%;
   margin: 0 0;
 
-  background-color: rgba(220, 220, 220, 1.0);
+  background-color: rgba(200, 200, 200, 1.0);
 
 
 }
@@ -255,11 +256,12 @@ footer{
 
 .info{
   width: 30%;
-  
 }
 
 .services{
   margin: 0 4%;
+  border-left: 2px solid rgba(150, 150, 150, 1.0);
+  border-right: 2px solid rgba(150, 150, 150, 1.0);
 }
 
 .bottom-list{
@@ -270,12 +272,12 @@ footer{
  .bottom-list li{
   text-align: center;
   
-  padding: 2% 0;
+  padding: 1% 0;
 }
 
 .bottom-list li h4{
   font-size: 1.2em;
-  margin: 4% 0;
+  margin: 4% 0 2% 0;
   text-align: center;
 }
 
@@ -285,19 +287,39 @@ ul li a{
 
 }
 
+ul li a:hover{
+  color: rgba(240, 240, 240, 1.0);
+}
 
-.madebywrapper{
+.bottom-most{
   width: 100%;
   background-color: rgba(100, 100, 100, 1);
   
 }
 
-.fdzwebsllc{
-  width: 40%;
-  margin: 0 0 0 60%;
-  
-  color: white;;
+.madebywrapper{
+  width: 30%;
+  margin: 0 0 0 70%;
+
 }
+
+p{
+  display: inline-block;
+  color:  rgba(200, 200, 200, 1.0);
+}
+.fdzwebsllc{
+  display: inline-block;
+  padding: 4% 0;
+  color: rgba(230, 230, 230, 1.0);
+  text-decoration: none;
+}
+
+.fdzwebsllc:hover{
+  color: orange;
+  text-decoration: underline solid orange;
+}
+
+
 
 
 
