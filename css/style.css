@@ -52,6 +52,11 @@ header nav a:hover{
   color: gray;
 }
 
+.current{
+
+  color: orange;
+}
+
 /*Main content*/
 main{
   width: 100%;
