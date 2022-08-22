@@ -311,7 +311,7 @@ ul li a:hover{
 
 .bottom-most{
   width: 100%;
-  background-color: rgba(50, 50, 50, 1);
+  background-color: #263238 /*rgba(50, 50, 50, 1)*/;
   
 }
 
