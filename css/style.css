@@ -23,11 +23,19 @@ header{
 
 }
 
-header img {
+.logo{
+
   width: 10%;
   margin-left: 5%;
   margin-right: 35%;
 
+}
+
+.logo2{
+  display: none;
+  width: 10%;
+  margin-left: 5%;
+  margin-right: 35%;
 }
 
 header nav{
@@ -392,14 +400,23 @@ p{
   
   }
   
-  header img {
-    width: 30%;
-    height: 100px;
-    margin: 0 35%;
-    padding: 4% 0;
+  .logo{
+    display: none;
+    width: 10%;
+    margin-left: 5%;
+    margin-right: 35%;
   
-
   }
+  
+  .logo2
+  {
+
+    display: block;
+    width: 10%;
+    margin-left: 5%;
+    margin-right: 35%;
+
+  }  
   
   header nav{
   
