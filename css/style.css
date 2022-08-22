@@ -82,6 +82,7 @@ main{
 .video-showcase{
   width: 90%;
   margin: 5% 5%;
+  padding: 0;
   background-color: #b0bec5 /*rgba(220, 220, 220, 1.0)*/;
   text-align: c;
 }
@@ -92,6 +93,8 @@ iframe{
   width: 70%;
   min-height: 360px;
   margin: 0 15%;
+  padding: 0;
+
 
 
 }
