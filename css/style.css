@@ -83,12 +83,15 @@ main{
   width: 90%;
   margin: 5% 5%;
   background-color: rgba(220, 220, 220, 1.0);
-  text-align: center;
+  text-align: c;
 }
 
 /*iframe */
 iframe{
 
+  width: 50%;
+  min-height: 360px;
+  margin: 0 25%;
 
 
 }
