@@ -404,9 +404,9 @@ p{
     display: block;
     
   }
-  
+  /*
   .logo{
-    display: none;
+    display: 100%;
     width: 10%;
     margin-left: 5%;
     margin-right: 35%;
@@ -416,13 +416,13 @@ p{
   .logo2
   {
 
-    display: block;
+    display: none;
     width: 10%;
     margin-left: 5%;
     margin-right: 35%;
 
   }  
-  
+  */
   header nav{
   
     width: 100%;
