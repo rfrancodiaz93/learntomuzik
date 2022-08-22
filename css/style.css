@@ -177,7 +177,7 @@ main{
 }
 /*ARTICLE STYLE*/
 .article{
-  width: 30%;
+  width: 60%;
   margin: 0  ;
   color: black;
   background-color: rgba(100, 100, 100, 1);
@@ -263,14 +263,14 @@ main{
 .first-song-wrapper{
 
   width: 40%;
-  padding: 0 10% 0 0 ;
+  
   border-top: rgba(200, 200, 200, 1.0);
 }
 
 .first-song-wrapper iframe{
 
   width: 90%;
-  margin: 0 5%;
+  margin: 0 15%;
   padding: 0;
 
   
