@@ -173,8 +173,6 @@ main{
 
 }
 
-.article,.form1{
-}
 /*ARTICLE STYLE*/
 .article{
   width: 60%;
@@ -553,9 +551,7 @@ p{
   
   }
   
-  .article,.form1{
 
-  }
 
   /*ARTICLE STYLE*/
   article{
