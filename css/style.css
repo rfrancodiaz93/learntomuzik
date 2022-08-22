@@ -83,6 +83,7 @@ main{
   width: 90%;
   margin: 5% 5%;
   background-color: rgba(220, 220, 220, 1.0);
+  text-align: center;
 }
 
 /*iframe */
@@ -90,7 +91,7 @@ iframe{
 
   width: 50%;
   margin: 0 25%;
-  
+
 
 }
 
