@@ -437,7 +437,8 @@ p{
   
   header nav a{
     display: inline-block;
-    width: 25%;
+    width: 20%;
+    margin: 0;
     padding: 0;
   
     text-decoration: none;
