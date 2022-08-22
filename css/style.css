@@ -600,7 +600,22 @@ p{
     color: black;
   
   }
-  
+
+  /*"first-song-wrapper*/
+  .first-song-wrapper{
+
+    width: 90%;
+    margin: 0 5%;
+
+
+  }
+
+  .first-song-wrapper iframe{
+
+    width: 100%;
+    
+  }
+
   /*form para */
   .form1{
     width: 90%;
