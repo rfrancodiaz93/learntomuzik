@@ -607,13 +607,14 @@ p{
 
     width: 90%;
     margin: 0 5%;
-    
+    background-color: black;
 
   }
 
   .first-song-wrapper iframe{
 
-    width: 100%;
+    width: 400px;
+    
     
   }
 
