@@ -437,8 +437,8 @@ p{
   
   header nav a{
     display: inline-block;
-    width: 30%;
-    padding: 5% 0;
+    width: 25%;
+    padding: 0;
   
     text-decoration: none;
     text-transform: uppercase;
