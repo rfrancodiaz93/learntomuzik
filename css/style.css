@@ -88,7 +88,7 @@ main{
 }
 
 /*iframe */
-iframe{
+.video-showcase iframe{
 
   width: 70%;
   min-height: 360px;
@@ -260,8 +260,16 @@ iframe{
 /*first song wrapper*/
 .first-song-wrapper{
 
-  width: 50%;
+  width: 40%;
   border: 2px solid rgba(200, 200, 200, 1.0);
+}
+
+.first-song-wrapper iframe{
+
+  width: 90%;
+  margin: 0 5%;
+  
+
 }
 
 /*FOOTER STYLING */
