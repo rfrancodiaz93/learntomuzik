@@ -505,6 +505,8 @@ p{
 
     width: 100%;
     height: 360px;
+    padding: 0;
+    margin: 0;
   }
 
   .video-link{
