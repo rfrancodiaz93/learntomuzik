@@ -497,7 +497,8 @@ p{
   /*VIDEO SHOWCASE*/
   .video-showcase{
     width: 90%;
-    margin: 5% 5%;
+    margin: 5% 0;
+    padding: 0;
     background-color: #b0bec5;
   }
   
